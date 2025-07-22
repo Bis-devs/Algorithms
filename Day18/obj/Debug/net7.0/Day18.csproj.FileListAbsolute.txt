@@ -1,0 +1,15 @@
+/Users/biseraangelovska/Projects/Day18/bin/Debug/net7.0/Day18
+/Users/biseraangelovska/Projects/Day18/bin/Debug/net7.0/Day18.deps.json
+/Users/biseraangelovska/Projects/Day18/bin/Debug/net7.0/Day18.runtimeconfig.json
+/Users/biseraangelovska/Projects/Day18/bin/Debug/net7.0/Day18.dll
+/Users/biseraangelovska/Projects/Day18/bin/Debug/net7.0/Day18.pdb
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.csproj.AssemblyReference.cache
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.GeneratedMSBuildEditorConfig.editorconfig
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.AssemblyInfoInputs.cache
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.AssemblyInfo.cs
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.csproj.CoreCompileInputs.cache
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.dll
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/refint/Day18.dll
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.pdb
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/Day18.genruntimeconfig.cache
+/Users/biseraangelovska/Projects/Day18/obj/Debug/net7.0/ref/Day18.dll
